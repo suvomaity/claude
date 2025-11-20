@@ -1,0 +1,8 @@
+flask==3.0.0
+flask-login==0.6.3
+flask-socketio==5.3.5
+python-socketio==5.10.0
+eventlet==0.33.3
+bcrypt==4.1.2
+werkzeug==3.0.1
+# No new pip installs needed; frontend uses CDNs for Bootstrap, SocketIO, Chart.js
